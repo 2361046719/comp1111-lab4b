@@ -4,3 +4,6 @@ printer
 phone
 box
 keyboard
+sun
+sunshine
+boy
