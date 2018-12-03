@@ -1,3 +1,6 @@
+plum
+orange
+cherry
 ice
 taxi
 ball
