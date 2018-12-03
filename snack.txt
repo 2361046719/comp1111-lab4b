@@ -1,3 +1,9 @@
 cow
 water
 watch
+plum
+orange
+cherry
+ice
+taxi
+ball

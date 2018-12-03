@@ -4,3 +4,6 @@ brick tea
 people
 note
 man
+pear
+peach
+lemon
