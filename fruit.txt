@@ -1,3 +1,6 @@
 cellphone
 water
 apple
+banana
+egg
+cow
